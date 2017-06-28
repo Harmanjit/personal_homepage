@@ -1,0 +1,17 @@
+name: "Harmanjit Singh Bansal"
+navbar:
+  title: "HOME"
+  left:
+    - text: "Art"
+      href: art.html
+    - text: "Hobbies"
+      href: hobbies.html
+    - text: "Science"
+      href: science.html
+output_dir: "."
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+#    include:
+#      after_body: _footer.html
