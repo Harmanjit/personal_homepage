@@ -1,6 +1,6 @@
 ---
-title: "Welcome!"
-author:  "[Harmanjit Singh Bansal](https://github.com/harmanjit) at [NCBS](https://www.ncbs.res.in/), `r Sys.Date()`"
+title: "Publications"
+author:  "[R. Sankararamakrishnan, Ph.D.](http://home.iitk.ac.in/~rsankar/) at [Department of Biological Sciences and Bioengineering, IIT-Kanpur](http://www.iitk.ac.in/bsbe/), Updated on `r Sys.Date()`"
 output:
   html_document:
     fig_width: 1
@@ -8,43 +8,12 @@ output:
 
 ----
 
-<style>
-  .col2 {
-    columns: 2 200px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 200px; /* chrome, safari */
-    -moz-columns: 2 200px;    /* firefox */
-  }
-</style>
- 
-
-<div class="col2">
-
-
-Welcome to this (well-designed) website made using [RStudio's R Markdown](http://rmarkdown.rstudio.com/) and hosted on [Github](http://github.com). This is very new and incredibly cool. It is a really powerful way to communicate your story, science using the same reproducible workflow you use for your analyses and collaborations.
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-<img src="img/me.jpg" width="400px">
-</div>
+# Link to [google scholar](https://scholar.google.com/citations?hl=en&user=L-wotv8AAAAJ&sortby=pubdate&view_op=list_works&citft=1&email_for_op=harman767%40gmail.com&gmla=AJsN-F7Oo3krpZ7bpqwWGKyi2Oe5tr7KAzdssTx-v1keGK8-mo8zAIdt6yDhXMg-v6CFvDm26rT2FdxgOu4eQdh09fGJL5Wbny8EMqovEj3jpSq8vLnMQxeMP_bT46CJYUAijJwU3hrwl0UBDL3lqM8oeo-6m1AR7jFP7jJSXsQ48uZTT0Q9kT7U5RBc6govoG2JIpXKy7IWFNcWoFqhA0LGezV3VldOUhI_qSGShuwR3uhNs32xDrZXByr167mfhsITC3Zw-515)
 
 ----
 
-Feel free to explore the different sections on my art, science, and other hobbies.
-<!-- Creat the social icons requires the css of the font awesome, do not delete the next line -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+Useful Links:
 
-<a href="http://www.facebook.com/hornpit"> <i class="fa fa-facebook"></i> </a>&nbsp;&nbsp;&nbsp;
-<a href="http://github.com/harmanjit"> <i class="fa fa-github"></i> </a>&nbsp;&nbsp;&nbsp;
-<a href="skype:harman767@gmail.com"> <i class="fa fa-skype"></i> </a>&nbsp;&nbsp;&nbsp;
-<a href="http://www.medium.com/@harmanjitBansal"> <i class="fa fa-medium"></i> </a>&nbsp;&nbsp;&nbsp;
-<a href="http://www.twitter.com/@harmanjitBansal"> <i class="fa fa-twitter"></i> </a>&nbsp;&nbsp;&nbsp;
-<a href="http://www.linkedin.com/in/harman1"> <i class="fa fa-linkedin"></i> </a>&nbsp;&nbsp;&nbsp;
-<a href="http://www.pinterest.com/harmanjitsb"> <i class="fa fa-pinterest"></i> </a>&nbsp;&nbsp;&nbsp;
+[Database: nonAUG](http://bioinfo.iitk.ac.in/bioinfo/)
+
+[Servers: weakAUG](http://bioinfo.iitk.ac.in/bioinfo/)

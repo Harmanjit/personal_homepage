@@ -1,6 +1,6 @@
 ---
-title: "Weblog!"
-author:  "[Harmanjit Singh Bansal](https://github.com/harmanjit) at [NCBS](https://www.ncbs.res.in/), `r Sys.Date()`"
+title: "Members"
+author:  "[R. Sankararamakrishnan, Ph.D.](http://home.iitk.ac.in/~rsankar/) at [Department of Biological Sciences and Bioengineering, IIT-Kanpur](http://www.iitk.ac.in/bsbe/), Updated on `r Sys.Date()`"
 output:
   html_document:
     fig_width: 1
@@ -8,29 +8,119 @@ output:
 
 ----
 
-I write somewhat regularly, about 1% of that makes appearance on the internet in some form or the other. 
-There are multiple forums that I have tried over the last decade. 
-I feel that the medium.com turns out to be catering the best to my requirements. 
-One of which is aesthetics. I have yet to see a better designed blogging site. 
-I do not post regularly, but there are some things that I have posted, I am including the link to the same.
+# Myself
+
+### Academic Background
+
+Dr. Sankararamakrishnan's pre-doctoral studies were at the Indian Institute of Science, 
+Bangalore. He received post-doctoral training in computational biology at 
+University of Oxford and University of Illinois, Urbana-Champaign. 
+He was serving as a Research Assistant Professor at the Mount Sinai School of 
+Medicine, New York, before joining the BSBE department in April, 2002.
+
+### Contact Information
+
+Email: rsankar@iitk.ac.in
+
+Tel: (91) 512 259 4014
+
+Fax: (91) 512 259 4010   
+
 <br>
-https://medium.com/@harmanjitbansal/on-moods-4e024e9f0a5a
+<br>
+<br>
 
-https://medium.com/@harmanjitbansal/stereotypes-9c9278a1e598
+# Current Members
 
-https://medium.com/@harmanjitbansal/high-entails-low-676ff722ad41
+## Ph. D.
 
-https://medium.com/@harmanjitbansal/love-the-humor-94aa26469378
+Mishtu Mukherjee <br>
+Formate-Nitrite Transporter Superfamily: Mechanism of transport 
+
+Manu Vajpai <br>
+Oligomerization in membrane proteins 
+
+C. Narendra Reddy <br>
+BH3 peptide-Bcl-2 protein interactions 
+
+Ankita Gupta <br>
+Membrane transporters 
+
+## M.Tech
+
+Abhishek H. Iyer <br>
+Fluoride Channels 
+
+Manish Yadav, B.Tech-M.Tech student <br>
+Alternative initiation in translation 
+
+# Former Members
+
+## Ph.D.
+
+R. N. V. Krishna Deepak <br>
+Current Affiliation: A*STAR, Bioinformatics Institute, Singapore 
+
+Ravi Kumar Verma <br>
+Current Affiliation: National Institute of Drug Abuse (NIDA), NIH, USA 
+
+Vivek Modi <br>
+Current Affiliation: Fox Chase Cancer Research Center, Philadelphia, USA 
+
+Alok Jain <br>
+Current Affiliation: University of Konstanz, Germany 
+
+Priyanka Prakash Srivastava <br>
+Current Affiliation: University of Texas Medical School, Houston, USA 
+
+Anjali Bansal Gupta <br>
+Current Affiliation: Mechanobiology Institute, NUS, Singapore 
+
+Dilraj Lama <br>
+Current Affiliation: A*STAR, Bioinformatics Institute, Singapore 
+
+Tuhin Kumar Pal <br>
+
+## Post-Doc
+
+Kshatresh Dutta Dubey <br>
+Current Affiliation: Hebrew University of Jerusalem, Israel 
+
+## M.Tech
+
+Brijesh Chandrakar (B.Tech-M.Tech student) <br>
+Current Affiliation: Software Developer, Times Internet, Noida, India 
+
+Ashamdeep Khosa <br>
+Current Affiliation: Project Manager, Roots Analysis, Chandigarh, India 
+
+Praveen Kumar Guleliya <br>
+Current Affiliation: Research Analyst at Stellarix, Jaipur, India 
+
+Neel Duti Prabh <br>
+Current Affiliation: Max Planck Institute of Developmental Biology, Tuebingen, Germany 
+
+Phani Deep Prayaga <br>
+Current Affiliation: Indian Institute of Technology Bombay 
+
+Gandarva Nagpal <br>
+Current Affiliation: Institute of Microbial Technology, Chandigarh 
+
+Varun Mehra <br>
+Current Affiliation: TCS Life Sciences 
+
+Krishna Chaitanya <br>
+Current Affiliation: University of Michigan, Ann Arbor, USA 
+
+Tarini Shankar Ghosh <br>
+Current Affiliation: Post-doc, Genome Institute, Singapore
+
+Suhas Tikole <br>
+Current Affiliation: University of California, Merced, USA 
+
 ----
+Useful Links:
 
-Feel free to explore the different sections on my art, science, and other hobbies.
-<!-- Creat the social icons requires the css of the font awesome, do not delete the next line -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+[Database: nonAUG](http://bioinfo.iitk.ac.in/bioinfo/)
 
-<a href="http://www.facebook.com/hornpit"> <i class="fa fa-facebook"></i> </a>&nbsp;&nbsp;&nbsp;
-<a href="http://github.com/harmanjit"> <i class="fa fa-github"></i> </a>&nbsp;&nbsp;&nbsp;
-<a href="skype:harman767@gmail.com"> <i class="fa fa-skype"></i> </a>&nbsp;&nbsp;&nbsp;
-<a href="http://www.medium.com/@harmanjitBansal"> <i class="fa fa-medium"></i> </a>&nbsp;&nbsp;&nbsp;
-<a href="http://www.twitter.com/@harmanjitBansal"> <i class="fa fa-twitter"></i> </a>&nbsp;&nbsp;&nbsp;
-<a href="http://www.linkedin.com/in/harman1"> <i class="fa fa-linkedin"></i> </a>&nbsp;&nbsp;&nbsp;
-<a href="http://www.pinterest.com/harmanjitsb"> <i class="fa fa-pinterest"></i> </a>&nbsp;&nbsp;&nbsp;
+[Servers: weakAUG](http://bioinfo.iitk.ac.in/bioinfo/)

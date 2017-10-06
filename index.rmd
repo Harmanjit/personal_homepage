@@ -42,5 +42,8 @@ The group was established in April 2002.
 </div>
 
 ----
+Useful Links:
 
-<!-- Creat the social icons requires the css of the font awesome, do not delete the next line -->
+[Database: nonAUG](http://bioinfo.iitk.ac.in/bioinfo/)
+
+[Servers: weakAUG](http://bioinfo.iitk.ac.in/bioinfo/)

@@ -1,6 +1,6 @@
 ---
-title: "Art Showcase!"
-author:  "[Harmanjit Singh Bansal](https://github.com/harmanjit) at [Weill Cornell Medicine](http://weill.cornell.edu//), `r Sys.Date()`"
+title: "Research"
+author:  "[R. Sankararamakrishnan, Ph.D.](http://home.iitk.ac.in/~rsankar/) at [Department of Biological Sciences and Bioengineering, IIT-Kanpur](http://www.iitk.ac.in/bsbe/), Updated on `r Sys.Date()`"
 output:
   html_document:
     fig_width: 1
@@ -8,47 +8,16 @@ output:
 
 ----
 
-All the art images below are my own creation, though the idea may not be original. 
-Every art has its own significance, and I have tried to highlight some of that in the caption. 
-However, like every art, the interpretations of the art are supposed to be personal. 
-<hr>
-## Burj Al Arab (3D Model)
-<br>
-<img src="img/art/burj.jpg" width="45%">
-<img src="img/art/monkey.jpg" width="45%">
-<br><br>
-<img src="img/art/hsb.jpg" width="45%">
-<img src="img/art/wine.jpg" width="45%">
-<br>
-<hr>
-<!-- --------------------------------------------------- -->
-## Water Colors
-<br>
-<img src="img/art/fish.jpg" width="45%">
-<img src="img/art/cock.jpg" width="45%">
-<br><br>
-<img src="img/art/scene.jpg" width="45%">
-<img src="img/art/girl.jpg" width="45%">
-<br>
-<hr>
-<!-- --------------------------------------------------- -->
-## Oil on canvas
-<br>
-<img src="img/art/violin.jpg" width="45%">
-<br>
-<hr>
-<!-- --------------------------------------------------- -->
+Dr. Sankararamakrishnan uses various computational techniques to study biomolecules, namely, integral membrane proteins and lipids. These studies are especially important since structural studies on membrane proteins are extremely difficult. Molecular modeling, sequence analysis and molecular dynamics simulations are used to understand the structure-function relationships of pharmaceutically important membrane proteins and proteins involved in programmed cell death. He is also investigating novel interactions in protein structures with particular emphasis on membrane proteins. Some of the ongoing projects in his lab are:
+
+1. Membrane-bound conformations of flexible endogenous peptide hormones that bind to GPCR proteins are being simulated in explicit bilayers.
+
+2. GPCR proteins implicated in obesity and diabetes are being investigated by a combined approach of sequence analysis, molecular modeling and simulation techniques.
+
+3. Comparative studies of water-transporting aquaporin genes in rice, maize and Arabidopsis.
+
+4. Computational studies on pro- and anti-apoptotic protein complexes.
+
+5. Novel interactions involving aromatic amino acids.
 
 ----
-
-Feel free to explore the different sections on my art, science, and other hobbies.
-<!-- Creat the social icons requires the css of the font awesome, do not delete the next line -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-<a href="http://www.facebook.com/hornpit"> <i class="fa fa-facebook"></i> </a>&nbsp;&nbsp;&nbsp;
-<a href="http://github.com/harmanjit"> <i class="fa fa-github"></i> </a>&nbsp;&nbsp;&nbsp;
-<a href="skype:harman767@gmail.com"> <i class="fa fa-skype"></i> </a>&nbsp;&nbsp;&nbsp;
-<a href="http://www.medium.com/@harmanjitBansal"> <i class="fa fa-medium"></i> </a>&nbsp;&nbsp;&nbsp;
-<a href="http://www.twitter.com/@harmanjitBansal"> <i class="fa fa-twitter"></i> </a>&nbsp;&nbsp;&nbsp;
-<a href="http://www.linkedin.com/in/harman1"> <i class="fa fa-linkedin"></i> </a>&nbsp;&nbsp;&nbsp;
-<a href="http://www.pinterest.com/harmanjitsb"> <i class="fa fa-pinterest"></i> </a>&nbsp;&nbsp;&nbsp;
