@@ -1,13 +1,13 @@
-name: "Harmanjit Singh Bansal"
+name: "Bioinformatics and Biomolecular Simulation Laboratory"
 navbar:
-  title: "HOME"
+  title: "Bioinformatics and Biomolecular Simulation Laboratory"
   left:
-    - text: "Art"
-      href: art.html
-    - text: "Hobbies"
-      href: hobbies.html
-    - text: "Science"
-      href: science.html
+    - text: "Research"
+      href: research.html
+    - text: "Members"
+      href: members.html
+    - text: "Publications"
+      href: publications.html
 output_dir: "."
 output:
   html_document:
